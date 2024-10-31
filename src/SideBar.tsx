@@ -26,4 +26,3 @@ export default function Sidebar({ onAddItem }: SidebarProps) {
     </div>
   );
 }
-
